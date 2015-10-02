@@ -14,6 +14,8 @@
 		6BEFDC411BBE426700DDFE3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BEFDC3F1BBE426700DDFE3B /* LaunchScreen.storyboard */; };
 		6BEFDC4C1BBE426700DDFE3B /* PostalesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEFDC4B1BBE426700DDFE3B /* PostalesTests.swift */; };
 		6BEFDC571BBE426700DDFE3B /* PostalesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEFDC561BBE426700DDFE3B /* PostalesUITests.swift */; };
+		6BEFDC651BBE42EF00DDFE3B /* cuetzalanmagico02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6BEFDC641BBE42EF00DDFE3B /* cuetzalanmagico02.jpg */; settings = {ASSET_TAGS = (); }; };
+		6BEFDC671BBE4BED00DDFE3B /* MeganBoone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6BEFDC661BBE4BED00DDFE3B /* MeganBoone.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		6BEFDC521BBE426700DDFE3B /* PostalesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostalesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BEFDC561BBE426700DDFE3B /* PostalesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostalesUITests.swift; sourceTree = "<group>"; };
 		6BEFDC581BBE426700DDFE3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6BEFDC641BBE42EF00DDFE3B /* cuetzalanmagico02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cuetzalanmagico02.jpg; sourceTree = "<group>"; };
+		6BEFDC661BBE4BED00DDFE3B /* MeganBoone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MeganBoone.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				6BEFDC361BBE426700DDFE3B /* AppDelegate.swift */,
 				6BEFDC381BBE426700DDFE3B /* ViewController.swift */,
 				6BEFDC3A1BBE426700DDFE3B /* Main.storyboard */,
+				6BEFDC641BBE42EF00DDFE3B /* cuetzalanmagico02.jpg */,
+				6BEFDC661BBE4BED00DDFE3B /* MeganBoone.jpg */,
 				6BEFDC3D1BBE426700DDFE3B /* Assets.xcassets */,
 				6BEFDC3F1BBE426700DDFE3B /* LaunchScreen.storyboard */,
 				6BEFDC421BBE426700DDFE3B /* Info.plist */,
@@ -229,6 +235,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				6BEFDC411BBE426700DDFE3B /* LaunchScreen.storyboard in Resources */,
+				6BEFDC651BBE42EF00DDFE3B /* cuetzalanmagico02.jpg in Resources */,
+				6BEFDC671BBE4BED00DDFE3B /* MeganBoone.jpg in Resources */,
 				6BEFDC3E1BBE426700DDFE3B /* Assets.xcassets in Resources */,
 				6BEFDC3C1BBE426700DDFE3B /* Main.storyboard in Resources */,
 			);
