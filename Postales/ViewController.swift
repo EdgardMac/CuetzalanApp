@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var messageLabel: UILabel!
     @IBOutlet weak var enterNameTextField: UITextField!
     @IBOutlet weak var enterMessageTextFiel: UITextField!
+    @IBOutlet weak var messageLabel2: UILabel!
     
     @IBOutlet weak var mailButton: UIButton!
     
@@ -33,7 +34,13 @@ class ViewController: UIViewController {
         messageLabel.hidden=false
         messageLabel.textColor=UIColor.redColor()
         
+        messageLabel2.hidden=false
+        messageLabel2.text=enterMessageTextFiel.text
+        messageLabel2.textColor=UIColor.blueColor()
+        
+        
         enterNameTextField.text=""
+        enterMessageTextFiel.text=""
         enterNameTextField.resignFirstResponder()
         mailButton.setTitle("Mensaje Enviado!", forState: UIControlState.Normal)
     }
